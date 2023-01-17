@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class a1_q2 {
     public static void main(String[] args) {
             // input - don't change this code
